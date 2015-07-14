@@ -1282,7 +1282,7 @@ ways including including checks, online payments and credit card
 donations.  To donate, please visit: http://pglaf.org/donate
 
 
-###Section 5.  General Information About Project Gutenberg-tm electronic works
+####Section 5.  General Information About Project Gutenberg-tm electronic works
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
