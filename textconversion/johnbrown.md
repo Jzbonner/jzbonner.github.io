@@ -979,7 +979,7 @@ subject to the trademark license, especially commercial
 redistribution.
 
 
-*** START: FULL LICENSE ***
+***
 
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
@@ -1304,4 +1304,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
+***
