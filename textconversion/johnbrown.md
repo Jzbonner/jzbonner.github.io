@@ -68,7 +68,7 @@ JOHN BROWN PROFESSORSHIP.
 *****
 
 
-##INTRODUCTION.
+###INTRODUCTION.
 
 
 In substance, this address, now for the first time published, was
@@ -99,7 +99,7 @@ John Brown was hanged), adding that if Robert E. Lee were living, he
 would give him his hand also.
 
 
-##ADDRESS.
+###ADDRESS.
 
 
 Not to fan the flame of sectional animosity now happily in the process
@@ -996,7 +996,7 @@ Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
 
 
-###Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+####Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
@@ -1209,7 +1209,7 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-###Section  2.  Information about the Mission of Project Gutenberg-tm
+####Section  2.  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
@@ -1228,7 +1228,7 @@ and how your efforts and donations can help, see Sections 3 and 4
 and the Foundation web page at http://www.pglaf.org.
 
 
-###Section 3.  Information about the Project Gutenberg Literary Archive
+####Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
@@ -1254,7 +1254,7 @@ For additional contact information:
     > gbnewby@pglaf.org
 
 
-###Section 4.  Information about Donations to the Project Gutenberg
+####Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
 Project Gutenberg-tm depends upon and cannot survive without wide
@@ -1306,7 +1306,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     [Project Gutenberg] (http://www.gutenberg.net)
+[Project Gutenberg] (http://www.gutenberg.net)
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
