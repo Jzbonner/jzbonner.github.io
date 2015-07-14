@@ -31,11 +31,31 @@
 				<h4>Assignment 3: Text - create a formatted document of high quality</h4>
 					<p>
 						<ul>
-							<li>example.txt</li>
-							<li>example.md</li>
-							<li>example.odt</li>
-							<li>example.docx</li>
-							<li>example.pdf</li>
+							<li><a href="/textconversion/johnbrown.txt">johnbrown.txt</a></li>
+								<ul>
+									<li>Acquired from <a href="https://www.gutenberg.org/">Project Gutenberg</a></li>
+								</ul>
+							<li><a href="/textconversion/johnbrown.md">johnbrown.md</a></li>
+								<ul>
+									<li>Created manually</li>
+								</ul>
+							<li><a href="/textconversion/johnbrown.odt">johnbrown.odt</a></li>
+								<ul>
+									<li>Commands: pandoc johnbrown.md -s -o johnbrown.odt</li>
+								</ul>
+							<li><a href="/textconversion/johnbrown-apa.odt">johnbrown-apa.odt</a></li>
+								<ul>
+									<li>Commands: pandoc -S --reference-odt=apa.ott -o johnbrown-apa.odt johnbrown.md</li>
+									<li>Link to the reference file can be found here:<a href="/textconversion/apa.ott">apa.ott</a></li>
+								</ul>
+							<li><a href="/textconversion/johnbrown.docx">johnbrown.docx</a></li>
+								<ul>
+									<li>Commands: pandoc johnbrown.md -s -o johnbrown.docx</li>
+								</ul>
+							<li><a href="/textconversion/johnbrown.pdf">johnbrown.pdf</a></li>
+								<ul>
+									<li>Conversion through LibreOffice</li>
+								</ul>
 						</ul>
 					</p>
 				<h4>Assignment 4: Spreadsheets - create and format spreadsheets</h4>
