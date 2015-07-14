@@ -953,8 +953,6 @@ thus made her own, and not Brown's, the lost cause of the century.
 
 End of the Project Gutenberg EBook of John Brown, by Frederick Douglass
 
-*** END OF THIS PROJECT GUTENBERG EBOOK JOHN BROWN ***
-
 Produced by Sankar Viswanathan, Norbert H. Langkau, and
 the Online Distributed Proofreading Team at
 http://www.pgdp.net (This file was produced from images
@@ -994,8 +992,7 @@ Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
 
 
-####Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
+####Section 1.  General Terms of Use/Redistributing Project Gutenberg-tm electronic works
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
@@ -1226,8 +1223,7 @@ and how your efforts and donations can help, see Sections 3 and 4
 and the Foundation web page at http://www.pglaf.org.
 
 
-####Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
+####Section 3.  Information about the Project Gutenberg Literary Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
@@ -1252,8 +1248,7 @@ For additional contact information:
     > gbnewby@pglaf.org
 
 
-####Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
+####Section 4.  Information about Donations to the Project Gutenberg Literary Archive Foundation
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 spread public support and donations to carry out its mission of
@@ -1287,8 +1282,7 @@ ways including including checks, online payments and credit card
 donations.  To donate, please visit: http://pglaf.org/donate
 
 
-###Section 5.  General Information About Project Gutenberg-tm electronic
-works.
+###Section 5.  General Information About Project Gutenberg-tm electronic works
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
