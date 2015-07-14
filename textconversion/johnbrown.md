@@ -15,8 +15,6 @@ Release Date: March 31, 2010 [EBook #31839]
 Language: English
 
 
-*** START OF THIS PROJECT GUTENBERG EBOOK JOHN BROWN ***
-
 Produced by Sankar Viswanathan, Norbert H. Langkau, and
 the Online Distributed Proofreading Team at
 http://www.pgdp.net (This file was produced from images
