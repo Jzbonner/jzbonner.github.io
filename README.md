@@ -1,2 +1,2 @@
-# jzbonner.github.io
-jzbonner's INLS 161 Repository 
+# Tools for Information Literacy
+A repository built with the intention of housing various assignments from an introductory Information and Library Science course conducted at the University of North Carolina - Chapel Hill. Although not vast in scope, this is a glimpse of some of the introductory projects that I worked on in order to familiarize myself with Git, Github, CSV, Console Terminal, HTML, CSS, Node, npm, and other basic front-end development tools. 
